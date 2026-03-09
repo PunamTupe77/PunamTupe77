@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PunamTupe77.
-- 👀 I’m interested in Cloud, Devployment.
-- - 🌱 I’m currently learning Msc. Computer Science.
-- 💞️ I’m looking to collaborate on Cloud.
+- 👀 I’m interested in Devployment.
+-  🌱 I’m have completed Msc. Computer Science.
+- 💞️ I’m looking for an apportunity
 - 📫 How to reach me tupepunam177@gmail.com
 - ⚡ Fun fact: punamtupe77
 
