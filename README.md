@@ -11,17 +11,17 @@
 
 - Frontend: HTML,CSS,JavaScript,React.js
 - Backend: Java, Spring Boot,PHP
-- Database: MySQL, Postgres
+- Database: MySQL, Postgresql
 
 🔧 What I Do
 
-- Develop full-stack applications using React + Spring Boot
+- Develop full-stack applications using HTML,CSS,Bootstrap,PHP,React,Spring Boot
 - Work on end-to-end application development 
 - Focus on scalable, efficient, and production-ready systems
 
 💞️ Looking For
 
-- Opportunities in Cloud, and Full Stack Development
+- Opportunities in Full Stack Development
 - Roles where I can contribute to application development & deployment
 
 📫 How to Reach Me
