@@ -2,9 +2,9 @@
 
 🚀 About Me
 
-- 👀 I’m interested in Cloud Computing, Full Stack Development, and DevOps (Deployment)
+- 👀 I’m interested in Cloud Computing, Full Stack Development.
 - 🌱 I have completed M.Sc. in Computer Science
-- 🎓 Successfully completed CDAC Internship (Cloud & DevOps)
+- 🎓 Successfully completed CDAC Internship.
 - 💻 Passionate about building and deploying scalable applications
 
 💼 Technical Skills
