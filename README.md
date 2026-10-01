@@ -1,37 +1,33 @@
-👋 Hi, I’m Punam Tupe
+👋 Hi, I'm Punam Tupe
 
 🚀 About Me
-
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I have completed M.Sc. in Computer Science
-- 🎓 Successfully completed CDAC Internship (as Project Intern).
-- 💻 Passionate about building and deploying scalable applications
+👀 I'm interested in Java Backend Development.
+🌱 I have completed M.Sc. in Computer Science
+🎓 Successfully completed CDAC Internship (as Project Intern).
+💻 Passionate about building scalable, robust backend systems with Java
 
 💼 Technical Skills
-
-- Frontend: HTML,CSS,JavaScript,React.js
-- Backend: Java, Spring Boot,PHP
-- Database: MySQL, Postgresql
+Backend: Java, Spring Boot, Spring MVC, Hibernate
+Database: MySQL, PostgreSQL
+Frontend: HTML, CSS, JavaScript, React.js (supporting skills)
+Tools & Technologies: Maven, Git, REST APIs, Microservices Architecture
 
 🔧 What I Do
-
-- Develop full-stack applications using HTML,CSS,Bootstrap,PHP,React,Spring Boot
-- Work on end-to-end application development 
-- Focus on scalable, efficient, and production-ready systems
+Develop robust backend applications using Java and Spring Boot
+Design and implement scalable REST APIs
+Work on microservices and enterprise-level application development
+Focus on clean code, performance optimization, and database design
+Database design and optimization with SQL
 
 💞️ Looking For
-
-- Opportunities in Full Stack Development
-- Roles where I can contribute to application development & deployment
+Backend Development roles in Java/Spring Boot
+Opportunities to work on enterprise applications and microservices
+Projects where I can contribute to system architecture & scalability
 
 📫 How to Reach Me
-
-- Email: tupepunam177@gmail.com
+Email: tupepunam177@gmail.com
 
 ⚡ Fun Fact
+I love architecting backend systems that power production applications 🚀
 
-- I love turning ideas into real-world deployed applications 🚀
-
----
-
-✨ “Code, Deploy, Scale — Repeat.”
+✨ "Code, Test, Deploy, Scale — Repeat."
